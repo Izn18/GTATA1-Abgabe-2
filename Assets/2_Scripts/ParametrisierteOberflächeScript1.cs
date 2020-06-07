@@ -80,4 +80,5 @@ public class ParametrisierteOberflächeScript1 : MonoBehaviour
         _mesh.triangles = _triangles;
         _mesh.uv = _uvs;
     }
+    
 }

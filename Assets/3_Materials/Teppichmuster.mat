@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Erde
-  m_Shader: {fileID: 4800000, guid: 85578c2bc00b4684cafd8d59098714fc, type: 3}
+  m_Name: Teppichmuster
+  m_Shader: {fileID: 4800000, guid: e49e835b502b28448a2c7a22b15cd8b9, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -81,8 +81,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_19A4268B_Texture:
-        m_Texture: {fileID: 2800000, guid: de7e07bbcdc87114398a9b5508f21489, type: 3}
+    - _SampleTexture2D_514A931C_Texture:
+        m_Texture: {fileID: 2800000, guid: 9201ed3c73fff4749ac24f71df36fffd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_CF4971D8_Texture:
+        m_Texture: {fileID: 2800000, guid: 83c21f96afa011a40bba732f37ba1fb3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecularColorMap:
